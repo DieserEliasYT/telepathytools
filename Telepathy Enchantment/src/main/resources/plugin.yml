@@ -1,0 +1,11 @@
+name: Telepathy Enchantment
+version: '${project.version}'
+main: dieserblock.telepathyenchantment.TelepathyEnchantment
+api-version: '1.20'
+commands:
+  telepathypickaxe:
+    description: Gives you the telepathy pickaxe
+  telepathyaxe:
+    description: Gives you the telepathy axe
+  telepathyshovel:
+    description: Gives you the telepathy shovel
